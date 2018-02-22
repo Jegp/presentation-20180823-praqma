@@ -1,0 +1,17 @@
+/* TODO: maybe we need to port this to main.css?  */
+.reveal img {
+    max-width: 60%;
+}
+
+.CodeMirror {
+    width: 90vw;
+}
+
+.container {
+    width: 99% !important;
+}
+
+.rendered_html table {
+  font-size: 110%;
+  width: 70vw;
+}
