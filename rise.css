@@ -11,6 +11,10 @@
     width: 99% !important;
 }
 
+.rendered_html {
+  overflow: hidden;
+}
+
 .rendered_html table {
   font-size: 110%;
   width: 70vw;
